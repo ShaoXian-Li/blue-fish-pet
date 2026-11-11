@@ -4,7 +4,7 @@
 
 ![待机中的蓝色大肥鱼](screenshots/01-idle.png)
 
-> 这是一个个人同人桌宠项目，不是 DeepSeek 官方产品。角色视觉来自你放在 `pic/` 里的 12 张“蓝色大肥鱼”表情图；程序做了统一去背、裁切和缩放，保证不同尺寸的原图不会让桌宠忽大忽小。行走侧面姿态参考了你提供的参考桌宠素材。
+> 这是一个个人同人桌宠项目，不是 DeepSeek 官方产品。角色视觉来自同人和AI修改，在 `pic/` 里的 12 张“蓝色大肥鱼”表情图。
 
 ---
 ## 下载
@@ -25,7 +25,7 @@
 
 ### 去哪里拿 API Key
 
-打开 <https://platform.deepseek.com/api_keys> 创建。默认 API 地址是 `https://api.deepseek.com`，默认模型是 `deepseek-chat`；想看她“想得更久一点”，可以换成 `deepseek-reasoner`。
+打开 <https://platform.deepseek.com/api_keys> 创建。默认 API 地址是 <https://api.deepseek.com>，默认模型是 deepseek-chat；想看她“想得更久一点”，可以换成 deepseek-reasoner。
 
 ---
 
