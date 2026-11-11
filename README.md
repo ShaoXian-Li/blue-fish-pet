@@ -7,6 +7,11 @@
 > 这是一个个人同人桌宠项目，不是 DeepSeek 官方产品。角色视觉来自你放在 `pic/` 里的 12 张“蓝色大肥鱼”表情图；程序做了统一去背、裁切和缩放，保证不同尺寸的原图不会让桌宠忽大忽小。行走侧面姿态参考了你提供的参考桌宠素材。
 
 ---
+## 下载
+
+- [最新版下载](https://github.com/ShaoXian-Li/blue-fish-pet/releases/latest)
+- [Windows 单文件 exe](https://github.com/ShaoXian-Li/blue-fish-pet/releases/latest/download/BlueFishPet.exe)
+- [分享包 zip](https://github.com/ShaoXian-Li/blue-fish-pet/releases/latest/download/default.zip)
 
 ## 直接开始
 
