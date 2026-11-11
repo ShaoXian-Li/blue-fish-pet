@@ -1,0 +1,25 @@
+# 本机运行数据（聊天记录、加密 API Key）——绝对不要上传
+dist/data/
+data/
+_userdata_backup_*/
+.data-*/
+*.log
+
+# 构建产物和分享包（放到 GitHub Releases，不放进仓库）
+dist/*.exe
+*.zip
+
+# 与桌宠项目无关的本地文件
+建议收集.txt
+小白龙GPT/
+
+# 尚未用到的动画工作帧（体积较大）
+gif/
+
+# Visual Studio / Windows
+.vs/
+bin/
+obj/
+*.user
+Thumbs.db
+Desktop.ini
