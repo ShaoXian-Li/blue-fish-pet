@@ -169,7 +169,7 @@ dist\BlueFishPet.exe
 ```
 src\             C# 源码（WPF，无第三方库）
 assets\          图标、Logo，以及从 pic 生成的表情贴图
-pic\             你提供的 12 张表情原图
+pic\             提供的 12 张表情原图
 screenshots\     界面截图
 dist\            编译输出
 app.manifest     DPI / 权限清单
